@@ -1,5 +1,6 @@
 # finalweatherapp
 A weather app built with react js.
+
 It makes use of the geolocation api to get users precise location upon startup.
 
 
