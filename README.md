@@ -1,9 +1,11 @@
 # finalweatherapp
-A weather app built with react js
+A weather app built with react js.
+It makes use of the geolocation api to get users precise location upon startup.
 
 
 # setup
-# iinstall and run nom from the root folder
-install npm -- npm i
+INSTALL AND RUN NPM FROM THE ROOT FOLDER
+
+install npm -- npm i 
 
 run npm -- npm start
